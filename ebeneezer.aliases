@@ -16,3 +16,6 @@ alias gpo='noc g push origin'
 alias gpom='noc g push origin master'
 alias gu='noc g pull'
 alias gco='noc g checkout'
+alias gmrg='noc g merge'
+
+alias mm='noc middleman'
